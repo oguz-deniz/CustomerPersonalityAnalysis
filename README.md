@@ -23,6 +23,4 @@ This repository contains an in-depth analysis of customer personality using clus
 
 * **Data:** The dataset used for this analysis can be found in the 'data' directory.
 
-* **Results:** Comprehensive results, visualizations, and insights are provided in the 'results' directory.
-
 * **Report:** Detailed documentation explaining the project methodologies, findings, and insights is available in the 'report' directory.
