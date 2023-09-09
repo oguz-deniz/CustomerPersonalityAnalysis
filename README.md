@@ -1,7 +1,7 @@
 # Customer Personality Analysis with Clustering Approach
 
 ## Overview
-This repository contains an in-depth analysis of customer personality using clustering techniques. The project encompasses a comprehensive exploratory data analysis (EDA), feature extraction and elimination, Principal Component Analysis (PCA), standardization, the implementation of nine different clustering approaches, hyperparameter tuning, and a thorough profiling analysis(I provided a more comprehensive project report in IEEE format in the 'results' directory.).
+This repository contains an in-depth analysis of customer personality using clustering techniques. The project encompasses a comprehensive exploratory data analysis (EDA), feature extraction and elimination, Principal Component Analysis (PCA), standardization, the implementation of nine different clustering approaches, hyperparameter tuning, and a thorough profiling analysis (I provided a more comprehensive project report in IEEE format in the 'results' directory.).
 
 ## Project Highlights
 
