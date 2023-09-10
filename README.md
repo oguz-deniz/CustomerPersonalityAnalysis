@@ -17,6 +17,8 @@ This repository contains an in-depth analysis of customer personality using clus
 
 * **Profiling Analysis:** Gain insights into each customer segment, uncover patterns, and make data-driven decisions for marketing and product strategies.
 
+   ![Ekran Görüntüsü (212)](https://github.com/oguz-deniz/CustomerPersonalityAnalysis/assets/98212476/9f64dc70-5322-454e-8795-7a84c06b2cb9){width=300px}
+
 ## Repository Contents
 
 * **Code:** Detailed Jupyter notebooks covering each project phase are available in the 'code' directory.
