@@ -11,6 +11,8 @@ This repository contains an in-depth analysis of customer personality using clus
 
 * **Principal Component Analysis (PCA):** Reduce dimensionality using PCA to capture the most important variance in the data.
 
+    <img src="https://github.com/oguz-deniz/CustomerPersonalityAnalysis/assets/98212476/e71ee012-5cfb-40fc-88fa-b6b149559af0" alt="Ekran Görüntüsü (216)" width="300">
+
 * **Clustering Approaches:** Implement nine distinct clustering algorithms to group customers based on their characteristics.
 
      <img src="https://github.com/oguz-deniz/CustomerPersonalityAnalysis/assets/98212476/97aa2885-75e4-465d-ad13-3da49c58ff40" alt="Ekran Görüntüsü (214)" width="300">
