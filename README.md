@@ -13,7 +13,11 @@ This repository contains an in-depth analysis of customer personality using clus
 
 * **Clustering Approaches:** Implement nine distinct clustering algorithms to group customers based on their characteristics.
 
+     <img src="https://github.com/oguz-deniz/CustomerPersonalityAnalysis/assets/98212476/97aa2885-75e4-465d-ad13-3da49c58ff40" alt="Ekran Görüntüsü (214)" width="300">
+
 * **Hyperparameter Tuning:** Fine-tune clustering algorithms to optimize cluster quality.
+
+     <img src="https://github.com/oguz-deniz/CustomerPersonalityAnalysis/assets/98212476/48c706ff-aecd-4c0e-9c4b-55073478be2a" alt="Ekran Görüntüsü (215)" width="300">
 
 * **Profiling Analysis:** Gain insights into each customer segment, uncover patterns, and make data-driven decisions for marketing and product strategies.
 
